@@ -51,3 +51,44 @@ body {
     align-items: center;
     margin-top: 30px;
 }
+
+.money-part h1 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.money-part p {
+
+    text-align: center;
+    margin-top: 15px;
+}
+
+.amount {
+    display: flex;
+    margin: 30px 130px;
+
+}
+
+.my-button {
+    margin: 0 40px;
+    padding: 40px;
+    border: none;
+    border-radius: 7px;
+}
+
+#second-button {
+    background-color: tomato;
+    border: 1px solid gray;
+}
+
+.dash {
+    border-bottom: 1px solid gray;
+    width: 60%;
+    margin: auto;
+
+}
+
+.taka {
+    /* padding-top: 50px; */
+
+}
