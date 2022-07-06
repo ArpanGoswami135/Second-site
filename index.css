@@ -125,8 +125,32 @@ body {
 }
 
 .education {
-    background-color: rgb(231, 195, 182);
+    background-color: rgb(243, 240, 239);
     padding: 0 40px;
     margin: 0 40px;
     border: 20px;
+}
+
+.bonus-part {
+    background-color: rgb(243, 240, 236);
+    margin-top: 30px;
+}
+
+.new-part {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.flood {
+    display: flex;
+    margin: 0 60px;
+    padding: 20px;
+}
+
+.bonuspic {
+    width: 100%;
+}
+
+.bonustext {
+    width: 60%;
 }
