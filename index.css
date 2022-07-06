@@ -154,3 +154,50 @@ body {
 .bonustext {
     width: 60%;
 }
+
+.update {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.myupdates {
+    text-align: center;
+}
+
+.inputfield {
+    background-color: rgb(233, 226, 207);
+    width: 60%;
+    padding: 80px;
+    margin: 0 250px;
+    text-align: center;
+}
+
+.inputbutton {
+    background-image: linear-gradient(tomato, brown);
+    padding: 0 15px;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    padding: 70px 0;
+    margin-top: 30px;
+}
+
+footer h2 {
+    color: brown;
+    text-align: center;
+}
+
+footer p {
+    color: wheat;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+footer h3 {
+    color: brown;
+    text-align: center;
+}
